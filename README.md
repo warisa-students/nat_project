@@ -12,7 +12,7 @@ Deep Rolling
 - offset
 # Data Collection:
 - Static
-    - Fatigue life 
+    - Fatigue life (supervise or, may be unsupervise)
     - Surface Roughness
     - Case Depth
     - Residual Stress
