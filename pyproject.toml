@@ -1,0 +1,11 @@
+[project]
+name = "nat-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "botorch>=0.17.2",
+    "ipykernel>=7.2.0",
+    "jupyterlab>=4.5.7",
+]
