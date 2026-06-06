@@ -9,4 +9,5 @@ dependencies = [
     "botorch>=0.17.2",
     "ipykernel>=7.2.0",
     "jupyterlab>=4.5.7",
+    "openpyxl>=3.1.5",
 ]
